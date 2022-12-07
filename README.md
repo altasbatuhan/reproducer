@@ -23,46 +23,29 @@ Reproducer is an image reproduction project with genetic algortihm. It's extende
 
 ## Example (Thanks to <b>Elon Musk</b>)
 
-<div style="display: flex;">
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 0</span>
-    <img src='assets/solution_0.png' />
-  </div>
-  &nbsp;
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 5k</span>
-    <img src='assets/solution_5000.png' />
-  </div>
-  &nbsp;
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 10k</span>
-    <img src='assets/solution_10000.png' />
-  </div>
-  &nbsp;
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 50k</span>
-    <img src='assets/solution_50000.png' />
-  </div>
-</div>
-
-<div style="display: flex;">
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 100k</span>
-    <img src='assets/solution_100000.png' />
-  </div>
-  &nbsp;
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 250k</span>
-    <img src='assets/solution_250000.png' />
-  </div>
-  &nbsp;
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 500k</span>
-    <img src='assets/solution_500000.png' />
-  </div>
-  &nbsp;
-  <div style="display: flex; text-align: center; flex-direction: column;">
-    <span>Iterations: 1m</span>
-    <img src='assets/solution_1000000.png' />
-  </div>
-</div>
+<table>
+<tr>
+  <th>Iterations: 0</th>
+  <th>Iterations: 5k</th>
+  <th>Iterations: 10k</th>
+  <th>Iterations: 50k</th>
+</tr>
+<tr>
+  <td><img src='assets/solution_0.png' /></td>
+  <td><img src='assets/solution_5000.png' /></td>
+  <td><img src='assets/solution_10000.png' /></td>
+  <td><img src='assets/solution_50000.png' /></td>
+</tr>
+<tr>
+  <th>Iterations: 100k</th>
+  <th>Iterations: 250k</th>
+  <th>Iterations: 500k</th>
+  <th>Iterations: 1m</th>
+</tr>
+<tr>
+  <td><img src='assets/solution_100000.png' /></td>
+  <td><img src='assets/solution_250000.png' /></td>
+  <td><img src='assets/solution_500000.png' /></td>
+  <td><img src='assets/solution_1000000.png' /></td>
+</tr>
+</table>
