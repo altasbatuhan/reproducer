@@ -6,11 +6,11 @@ Reproducer is an image reproduction project with genetic algorithm. It's extende
 
 - Clone the repository.
 - `$ cd reproducer && virtualenv venv`
-- `source venv/bin/activate`
-- `pip install -r requirements.txt`
-- Specify an image path in the code (which is in main function)
+- `$ source venv/bin/activate`
+- `$ pip install -r requirements.txt`
+- Specify an image path in the code (which is in main function).
 - Specify width and height multiplier in main function if you want to resize picture or have faster iterations.
-- Specify the iteration count, default is `10m`.
+- Specify the iteration count, the default is `10m`.
 - `$ python3 reproducer.py`
 - You can find outputs in `points/` folder.
 
