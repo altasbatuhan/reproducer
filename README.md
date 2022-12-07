@@ -1,6 +1,6 @@
 # Reproducer
 
-Reproducer is an image reproduction project with genetic algortihm. It's extended and improved implementation (more accurate and faster reproduction for all colors) of <a href="https://github.com/ahmedfgad/GARI">ahmetdfgad/GARI</a> project.
+Reproducer is an image reproduction project with genetic algorithm. It's extended and improved implementation (more accurate and faster reproduction for all colors) of <a href="https://github.com/ahmedfgad/GARI">ahmetdfgad/GARI</a> project.
 
 ## Installation
 
